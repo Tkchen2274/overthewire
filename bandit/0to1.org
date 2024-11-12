@@ -1,0 +1,6 @@
+* My solutions
+** The solution is that you have to use --, which is stop processing option
+https://unix.stackexchange.com/questions/272056/what-does-the-symbol-mean-in-linux
+** if you put this in then it'll stop asking for flags
+** When you include -- in a command, it signals to the program that no further arguments should be treated as options. After --, all arguments are treated as positional arguments (e.g., filenames, directory names, or other non-option data).
+** 263JGJPfgU6LtdEvgfWU1XP5yac29mFx

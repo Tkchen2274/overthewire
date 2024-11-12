@@ -1,0 +1,5 @@
+#+title: 4to5
+
+* file -- *
+* https://stackoverflow.com/questions/14505218/finding-human-readable-files-on-unix
+* https://unix.stackexchange.com/questions/313442/find-human-readable-files

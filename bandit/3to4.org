@@ -1,0 +1,9 @@
+#+title: 3to4
+* so the files are -file0*
+* you can't name files like this
+* to get around it define the file path so make sure that your accessing the file
+** etc: ./-file00
+* Yes, a file name that begins with a - (dash) can cause issues when using command-line tools because many Unix-like tools interpret the - as the start of a command-line option.
+* you could also do vim -- -file01
+** -- signals the end of options
+** 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw

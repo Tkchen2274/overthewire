@@ -1,0 +1,8 @@
+#+title: 2to3
+
+* pretty simple one
+** so you cd into the 'inhere' directory
+** then you can find it by using ls -a
+** it's a . file which are normally hidden
+** it's ...Hiding-From-You
+** flag:2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ

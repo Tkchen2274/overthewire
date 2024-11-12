@@ -1,0 +1,6 @@
+#+title: 1to2
+* the file is saved as :spaces in this filename
+** a cheating method is to have the linux package that auto completes with tab
+** real answer is that you just put the \ charcater
+** ex: spaces\ in\ this\ filename
+** flag: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
